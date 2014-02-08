@@ -8,7 +8,7 @@
  * View
  */
 
-exports.component = React.createClass({
+module.exports = React.createClass({
   displayName: 'componentName',
 
   render: function() {
